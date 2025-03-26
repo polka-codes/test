@@ -11,30 +11,30 @@
 </p>
 
 ## 🎉 Features
-- 🚀 Next.js 15 (App router)
+- 🚀 Next.js 15 with App Router
 - ⚛️ React 19
-- 📘 Typescript
-- 🎨 TailwindCSS - Class sorting, merging and linting
-- 🛠️ Shadcn/ui - Customizable UI components
-- 💵 Stripe - Payment handler
-- 🔒 Next-auth - Easy authentication library for Next.js (GitHub provider)
-- 🛡️ Prisma - ORM for node.js
-- 📋 React-hook-form - Manage your forms easy and efficient 
-- 🔍 Zod - Schema validation library
-- 🧪 Jest & React Testing Library - Configured for unit testing
-- 🎭 Playwright - Configured for e2e testing
-- 📈 Absolute Import & Path Alias - Import components using `@/` prefix
-- 💅 Prettier - Code formatter
-- 🧹 Eslint - Code linting tool
-- 🐶 Husky & Lint Staged - Run scripts on your staged files before they are committed
-- 🔹 Icons - From Lucide
-- 🌑 Dark mode - With next-themes
-- 📝 Commitlint - Lint your git commits
-- 🤖 Github actions - Lint your code on PR
-- ⚙️ T3-env - Manage your environment variables
-- 🗺️ Sitemap & robots.txt
-- 💯 Perfect Lighthouse score
-- 🌐 I18n with Paraglide
+- 📘 TypeScript support
+- 🎨 Tailwind CSS for styling
+- 🛠️ Customizable UI components
+- 💵 Stripe payments integration
+- 🔒 Authentication with GitHub
+- 🛡️ Database management toolkit
+- 📋 Form handling solutions
+- 🔍 Data validation
+- 🧪 Unit testing setup
+- 🎭 End-to-end testing
+- 📈 Simplified component imports
+- 💅 Code formatting
+- 🧹 Code quality checks
+- 🐶 Git commit automation
+- 🔹 Icon library
+- 🌑 Dark mode support
+- 📝 Commit message checks
+- 🤖 Automated code reviews
+- ⚙️ Environment management
+- 🗺️ SEO optimization
+- 💯 Performance optimized
+- 🌐 Multi-language support
 
 ## 🚀 Deployment
 Easily deploy your Next.js app with <a href="https://vercel.com/">Vercel</a> by clicking the button below:
@@ -66,10 +66,11 @@ npm install
 ```
 
 ### 3. Set up environment variables
-Create `.env` file and set env variables from `.env.example` file.
+Copy `.env.example` to `.env` and update the values:
+=======
 
-### 4. Prepare husky
-It is required if you want husky to work
+### 4. Set up Git hooks
+Run this to enable pre-commit checks:
 
 ```bash
 npm run prepare
@@ -108,33 +109,25 @@ and open http://localhost:3000/ to see this app.
 ```
 
 ## ⚙️ Scripts overview
-The following scripts are available in the `package.json`:
-- `dev`: Run development server
-- `build`: Build the app
+Main package.json commands:
+- `dev`: Start development server
+- `build`: Create production build
 - `start`: Run production server
-- `preview`: Run `build` and `start` commands together
-- `lint`: Lint the code using Eslint
-- `lint:fix`: Fix linting errors
-- `format:check`: Checks the code for proper formatting
-- `format:write`: Fix formatting issues
-- `typecheck`: Type-check TypeScript without emitting files
-- `test`: Run unit tests
-- `test:watch`: Run unit tests in watch mode
+- `lint`: Check code quality
+- `test`: Run tests
 - `e2e`: Run end-to-end tests
-- `e2e:ui`: Run end-to-end tests with UI
-- `postbuild`: Generate sitemap
-- `prepare`: Install Husky for managing Git hooks
+- `format`: Format code
 
 ## 🤝 Contribution
-To contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes, and commit them.
-4. Push your changes to the forked repository.
-5. Create a pull request.
+How to contribute:
+1. Fork the project
+2. Create your feature branch
+3. Commit changes
+4. Push to your fork
+5. Open a pull request
 
 ## ❤️ Support
 
-If you liked the project, I will appreciate if you leave a star. 🌟😊
+Like this project? Give it a star! ⭐😊
 
-Made by <a href="https://michalskolak.netlify.app/">Michał Skolak</a> 
+Created by <a href="https://michalskolak.netlify.app/">Michał Skolak</a>
