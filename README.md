@@ -78,7 +78,7 @@ npm run prepare
 
 ### 5. Run the dev server
 
-You can start the server using this command:
+Start the server with:
 
 ```bash
 npm run dev
