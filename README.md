@@ -1,5 +1,5 @@
 <a href="https://next-starter-skolaczk.vercel.app/">
-<img src="https://github.com/Skolaczk/next-starter/assets/76774237/44b552ff-43aa-441f-b1d0-de9bdfc2a73f" alt="thubnail">
+<img src="https://github.com/Skolaczk/next-starter/assets/76774237/44b552ff-43aa-441f-b1d0-de9bdfc2a73f" alt="thumbnail">
 </a>
 <p align="center">
   <a href="#-features"><strong>Features</strong></a> ·
@@ -59,6 +59,7 @@ Easily deploy your Next.js app with <a href="https://vercel.com/">Vercel</a> by 
    ```bash
    git clone https://github.com/Skolaczk/next-starter my-project-name
    ```
+
 ### 2. Install dependencies
 
 ```bash
@@ -67,7 +68,6 @@ npm install
 
 ### 3. Set up environment variables
 Copy `.env.example` to `.env` and update the values:
-=======
 
 ### 4. Set up Git hooks
 Run this to enable pre-commit checks:
