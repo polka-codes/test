@@ -33,7 +33,7 @@
 - 🤖 Automated code reviews
 - ⚙️ Environment management
 - 🗺️ SEO optimization
-- 💯 Performance optimized
+- 💯 Optimized performance
 - 🌐 Multi-language support
 
 ## 🚀 Deployment
@@ -67,7 +67,6 @@ npm install
 
 ### 3. Set up environment variables
 Copy `.env.example` to `.env` and update the values:
-=======
 
 ### 4. Set up Git hooks
 Run this to enable pre-commit checks:
