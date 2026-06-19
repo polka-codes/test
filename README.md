@@ -11,6 +11,7 @@
 </p>
 
 ## 🎉 Features
+
 - 🚀 Next.js 15 with App Router
 - ⚛️ React 19
 - 📘 TypeScript support
@@ -37,11 +38,13 @@
 - 🌐 Multi-language support
 
 ## 🚀 Deployment
+
 Easily deploy your Next.js app with <a href="https://vercel.com/">Vercel</a> by clicking the button below:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Skolaczk/next-starter)
 
 ## 🎯 Getting started
+
 ### 1. Clone this template in one of three ways
 
 1. Using this repository as template
@@ -53,12 +56,13 @@ Easily deploy your Next.js app with <a href="https://vercel.com/">Vercel</a> by 
    ```bash
    npx create-next-app -e https://github.com/Skolaczk/next-starter my-project-name
    ```
-    
+
 3. Using `git clone`
 
    ```bash
    git clone https://github.com/Skolaczk/next-starter my-project-name
    ```
+
 ### 2. Install dependencies
 
 ```bash
@@ -66,10 +70,11 @@ npm install
 ```
 
 ### 3. Set up environment variables
+
 Copy `.env.example` to `.env` and update the values:
-=======
 
 ### 4. Set up Git hooks
+
 Run this to enable pre-commit checks:
 
 ```bash
@@ -103,23 +108,27 @@ and open http://localhost:3000/ to see this app.
     ├── lib                         # Functions and utilities
     ├── styles                      # Styles folder
     ├── types                       # Type definitions
-    ├── messages                    # Messages for i18n 
-    ├── paraglide                   # (generated) compiled i18n messages 
+    ├── messages                    # Messages for i18n
+    ├── paraglide                   # (generated) compiled i18n messages
     └── env.mjs                     # Env variables config file
 ```
 
 ## ⚙️ Scripts overview
+
 Main package.json commands:
+
 - `dev`: Start development server
 - `build`: Create production build
 - `start`: Run production server
 - `lint`: Check code quality
 - `test`: Run tests
-- `e2e`: Run end-to-end tests
+- `e2e`: Run the end-to-end test suite
 - `format`: Format code
 
 ## 🤝 Contribution
+
 How to contribute:
+
 1. Fork the project
 2. Create your feature branch
 3. Commit changes
