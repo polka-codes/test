@@ -108,7 +108,7 @@ and open http://localhost:3000/ to see this app.
 ```
 
 ## ⚙️ Scripts overview
-Main package.json commands:
+Main package.json commands include:
 - `dev`: Start development server
 - `build`: Create production build
 - `start`: Run production server
