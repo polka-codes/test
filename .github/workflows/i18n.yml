@@ -1,7 +1,7 @@
 # Checks if all Translations are present & valid
 name: Ninja i18n action
 
-on: workflow_dispatch
+on: pull_request_target
 
 permissions:
   pull-requests: write # Necessary to comment on PRs
@@ -19,3 +19,4 @@ jobs:
         uses: opral/ninja-i18n-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
