@@ -11,7 +11,7 @@
 </p>
 
 ## 🎉 Features
-- 🚀 Next.js 15 with App Router
+- 🚀 Next.js 15 with the App Router
 - ⚛️ React 19
 - 📘 TypeScript support
 - 🎨 Tailwind CSS for styling
