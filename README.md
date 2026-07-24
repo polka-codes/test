@@ -83,7 +83,7 @@ Start the server with:
 npm run dev
 ```
 
-and open http://localhost:3000/ to see this app.
+Then open http://localhost:3000/ to view the app.
 
 ## 📁 Project structure
 
