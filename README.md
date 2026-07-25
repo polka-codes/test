@@ -33,7 +33,7 @@
 - 🤖 Automated code reviews
 - ⚙️ Environment management
 - 🗺️ SEO optimization
-- 💯 Performance optimized
+- 💯 Optimized performance
 - 🌐 Multi-language support
 
 ## 🚀 Deployment
