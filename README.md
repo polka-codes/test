@@ -96,7 +96,7 @@ Then open http://localhost:3000/ to view the app.
 └── src
     ├── __tests__                   # Unit and e2e tests
     ├── actions                     # Server actions
-    ├── app                         # Next JS App (App Router)
+    ├── app                         # Next.js app (App Router)
     ├── components                  # React components
     ├── hooks                       # Custom hooks
     ├── lib                         # Functions and utilities
