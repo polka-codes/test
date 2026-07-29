@@ -59,6 +59,7 @@ Easily deploy your Next.js app with <a href="https://vercel.com/">Vercel</a> by 
    ```bash
    git clone https://github.com/Skolaczk/next-starter my-project-name
    ```
+
 ### 2. Install dependencies
 
 ```bash
