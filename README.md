@@ -84,7 +84,7 @@ Start the development server with:
 npm run dev
 ```
 
-Then open http://localhost:3000/ to view the app.
+Open `http://localhost:3000/` to view the app.
 
 ## 📁 Project structure
 
