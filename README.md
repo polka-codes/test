@@ -109,7 +109,7 @@ Open `http://localhost:3000/` to view the app.
 ```
 
 ## ⚙️ Scripts overview
-Main `package.json` commands:
+Main `package.json` scripts:
 - `dev`: Start development server
 - `build`: Create production build
 - `start`: Run production server
