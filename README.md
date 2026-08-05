@@ -126,6 +126,8 @@ How to contribute:
 4. Push to your fork
 5. Open a pull request
 
+Keep each pull request focused so reviewers can verify it quickly.
+
 ## ❤️ Support
 
 Like this project? Give it a star! ⭐😊
