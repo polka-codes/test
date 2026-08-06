@@ -44,7 +44,7 @@ Easily deploy your Next.js app with <a href="https://vercel.com/">Vercel</a> by 
 ## 🎯 Getting started
 ### 1. Clone this template using one of these three methods
 
-1. Using this repository as a template
+1. Use this repository as a template
 
    ![use-this-template-button](https://github.com/Skolaczk/next-starter/assets/76774237/f25c9a29-41de-4865-aa38-c032b9346169)
 
