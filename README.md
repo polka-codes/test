@@ -37,7 +37,7 @@
 - 🌐 Multi-language support
 
 ## 🚀 Deployment
-Deploy your Next.js app to <a href="https://vercel.com/">Vercel</a> by clicking the button below:
+Deploy your Next.js app to <a href="https://vercel.com/">Vercel</a> with the button below:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Skolaczk/next-starter)
 
