@@ -48,7 +48,7 @@ Deploy your Next.js app to <a href="https://vercel.com/">Vercel</a> by clicking 
 
    ![use-this-template-button](https://github.com/Skolaczk/next-starter/assets/76774237/f25c9a29-41de-4865-aa38-c032b9346169)
 
-2. Using `create-next-app`
+2. Use `create-next-app`
 
    ```bash
    npx create-next-app -e https://github.com/Skolaczk/next-starter my-project-name
