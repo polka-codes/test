@@ -119,7 +119,7 @@ Main scripts in `package.json`:
 - `format`: Format code
 
 ## 🤝 Contribution
-How to contribute:
+To contribute:
 1. Fork the project
 2. Create your feature branch
 3. Commit your changes
