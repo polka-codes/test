@@ -54,7 +54,7 @@ Deploy your Next.js app to <a href="https://vercel.com/">Vercel</a> by clicking 
    npx create-next-app -e https://github.com/Skolaczk/next-starter my-project-name
    ```
     
-3. Using `git clone`
+3. Use `git clone`
 
    ```bash
    git clone https://github.com/Skolaczk/next-starter my-project-name
