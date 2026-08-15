@@ -17,7 +17,7 @@
 - 🎨 Tailwind CSS for styling
 - 🛠️ Customizable UI components
 - 💵 Stripe payments integration
-- 🔒 Authentication with GitHub
+- 🔒 Authentication using GitHub
 - 🛡️ Database management toolkit
 - 📋 Form handling solutions
 - 🔍 Data validation
