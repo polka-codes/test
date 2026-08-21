@@ -76,7 +76,7 @@ Run the following command to enable pre-commit checks:
 npm run prepare
 ```
 
-### 5. Run the dev server
+### 5. Run the development server
 
 Start the development server:
 
