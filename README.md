@@ -95,7 +95,7 @@ Open `http://localhost:3000/` in your browser to view the app.
 ├── prisma                          # Prisma schema and migrations
 ├── public                          # Public assets folder
 └── src
-    ├── __tests__                   # Unit and e2e tests
+    ├── __tests__                   # Unit and end-to-end tests
     ├── actions                     # Server actions
     ├── app                         # Next.js app (App Router)
     ├── components                  # React components
