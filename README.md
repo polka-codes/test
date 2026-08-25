@@ -70,7 +70,7 @@ npm install
 Copy `.env.example` to `.env`, then update the values as needed.
 
 ### 4. Set up Git hooks
-Run the following command to enable pre-commit checks:
+Run this command to enable pre-commit checks:
 
 ```bash
 npm run prepare
