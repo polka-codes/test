@@ -110,7 +110,7 @@ Open `http://localhost:3000/` in your browser to see the app.
 
 ## ⚙️ Scripts overview
 Main scripts in `package.json`:
-- `dev`: Start development server
+- `dev`: Start the development server
 - `build`: Create production build
 - `start`: Run production server
 - `lint`: Check code quality
