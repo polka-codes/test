@@ -78,7 +78,7 @@ npm run prepare
 
 ### 5. Run the development server
 
-Start the local development server:
+Start the development server:
 
 ```bash
 npm run dev
