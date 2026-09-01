@@ -18,7 +18,7 @@
 - 🛠️ Customizable UI components
 - 💵 Stripe payments integration
 - 🔒 GitHub authentication
-- 🛡️ Database management toolkit
+- 🛡️ Database management tools
 - 📋 Form handling solutions
 - 🔍 Data validation
 - 🧪 Unit testing setup
