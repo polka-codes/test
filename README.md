@@ -116,7 +116,7 @@ The main scripts in `package.json` are:
 - `lint`: Check code quality
 - `test`: Run tests
 - `e2e`: Run end-to-end tests
-- `format`: Format code
+- `format:write`: Format code
 
 ## 🤝 Contribution
 To contribute:
