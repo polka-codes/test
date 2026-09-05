@@ -112,7 +112,7 @@ Open `http://localhost:3000/` in your browser to view the app.
 The main scripts in `package.json` are:
 - `dev`: Start the development server
 - `build`: Create a production build
-- `start`: Run production server
+- `start`: Run the production server
 - `lint`: Check code quality
 - `test`: Run tests
 - `e2e`: Run end-to-end tests
