@@ -126,7 +126,7 @@ To contribute:
 4. Push to your fork
 5. Open a pull request
 
-Keep pull requests focused to make reviews faster and clearer.
+Keep pull requests focused so reviews are faster and clearer.
 
 ## ❤️ Support
 
