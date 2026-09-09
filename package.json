@@ -1,0 +1,9 @@
+{
+  "name": "workflow-evaluation-fixture",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "bun test",
+    "verify:external": "bun run verify-external.ts"
+  }
+}
