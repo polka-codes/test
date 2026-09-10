@@ -105,7 +105,7 @@ Open `http://localhost:3000/` in your browser to view the app.
     ├── types                       # Type definitions
     ├── messages                    # Messages for i18n 
     ├── paraglide                   # (generated) compiled i18n messages 
-    └── env.mjs                     # Environment variables configuration
+    └── env.mjs                     # Environment variable configuration
 ```
 
 ## ⚙️ Scripts overview
