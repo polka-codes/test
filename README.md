@@ -120,7 +120,7 @@ Commonly used scripts from `package.json` include:
 
 ## 🤝 Contribution
 To contribute:
-1. Fork the project
+1. Fork this repository
 2. Create your feature branch
 3. Commit your changes
 4. Push to your fork
