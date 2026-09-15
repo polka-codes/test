@@ -1,0 +1,41 @@
+name: Polka Codes Runner
+run-name: Polka Codes Runner - ${{ github.event.client_payload.taskId }}
+
+on:
+  repository_dispatch:
+    types: [remote-runner-session]
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  run-remote-task:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: lts/*
+
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.client_payload.ref }}
+          persist-credentials: false
+
+      - name: Install @polka-codes/runner
+        run: npm install -g "@polka-codes/runner@latest"
+
+      - name: Run Remote Task
+        env:
+          RUNNER_TASK_ID: ${{ github.event.client_payload.taskId }}
+          RUNNER_API_URL: ${{ github.event.client_payload.apiUrl }}
+        run: |
+          RUNNER_SESSION_TOKEN=$(node -p 'JSON.parse(require("node:fs").readFileSync(process.env.GITHUB_EVENT_PATH, "utf8")).client_payload.sessionToken')
+          echo "::add-mask::$RUNNER_SESSION_TOKEN"
+          polka-runner \
+            --task-id "$RUNNER_TASK_ID" \
+            --session-token "$RUNNER_SESSION_TOKEN" \
+            --api "$RUNNER_API_URL"
