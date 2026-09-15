@@ -26,7 +26,9 @@ jobs:
           persist-credentials: false
 
       - name: Install @polka-codes/runner
-        run: npm install -g "@polka-codes/runner@latest"
+        run: |
+          npm install -g "@polka-codes/runner@latest"
+          npm list -g "@polka-codes/runner" --depth=0
 
       - name: Run Remote Task
         env:
