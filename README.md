@@ -34,7 +34,7 @@
 - ⚙️ Environment management
 - 🗺️ SEO optimization
 - 💯 Optimized performance
-- 🌐 Multilingual support
+- 🌐 Multi-language support
 
 ## 🚀 Deployment
 Click the button below to deploy your Next.js app to <a href="https://vercel.com/">Vercel</a>:
