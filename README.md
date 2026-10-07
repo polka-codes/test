@@ -119,7 +119,7 @@ Commonly used scripts in `package.json` include:
 - `format:write`: Format code
 
 ## 🤝 Contribution
-To contribute, follow these steps:
+Follow these steps to contribute:
 1. Fork the project
 2. Create your feature branch
 3. Commit your changes
