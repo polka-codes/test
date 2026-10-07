@@ -1,11 +1,9 @@
 {
-  "name": "staging-e2e-receipt-20261007-c1",
+  "name": "staging-layout-fixture",
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "bun test",
-    "check": "bun run check-links.ts",
-    "verify:external": "bun run verify-external.ts",
-    "check:links": "bun run check-links.ts"
+    "dev": "node server.js",
+    "check": "node check-layout.js"
   }
 }

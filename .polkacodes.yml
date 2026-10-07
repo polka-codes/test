@@ -1,4 +1,2 @@
-scripts:
-  init: 'true'
-  test: bun run test
-  check: bun run check
+init: 'true'
+check: 'node check-layout.js'
