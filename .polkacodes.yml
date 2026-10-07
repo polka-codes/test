@@ -1,4 +1,4 @@
 scripts:
   init: 'true'
-  test: bun test money.test.ts
-  check: bun test money.test.ts
+  test: bun run test
+  check: bun run check
