@@ -1,0 +1,6 @@
+scripts:
+  test: bun test
+  check: bun test
+sandbox:
+  idleMode: sandbox-activity
+  idleTimeoutMinutes: 1
