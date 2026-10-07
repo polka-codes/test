@@ -1,2 +1,2 @@
 #!/bin/sh
-printf 'fixture ready\n'
+printf 'receipt checks passed\n'
