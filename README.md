@@ -11,4 +11,20 @@ This is a disposable staging E2E receipt fixture for run 20261007-c1.
 
 Run `bun test money.test.ts` for the focused arithmetic checks; `bun run check` provides the general check. `bun run verify:external` requires RECEIPT_SERVICE_URL and must remain blocked when it is unset. Do not replace or skip that verification when requested.
 
-This fixture uses only Bun built-ins; initialization requires no package download. Keep fixture PRs based on this branch, never main.
+The receipt checks use only Bun built-ins and require no package download. Keep fixture PRs based on this branch, never main.
+
+## Deferred fixture
+
+The deferred fixture uses the registry-installed `kleur` dependency. Run `bun install` to restore dependencies.
+
+Check:
+
+```sh
+bun run check:deferred
+```
+
+Preview (starts a server only when explicitly run):
+
+```sh
+PORT=3001 bun run deferred/server.ts
+```

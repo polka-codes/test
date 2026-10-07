@@ -6,6 +6,10 @@
     "test": "bun test",
     "check": "bun run check-links.ts",
     "verify:external": "bun run verify-external.ts",
-    "check:links": "bun run check-links.ts"
+    "check:links": "bun run check-links.ts",
+    "check:deferred": "bun run deferred/check.ts"
+  },
+  "dependencies": {
+    "kleur": "^4.1.5"
   }
 }
