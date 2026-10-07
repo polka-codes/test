@@ -1,2 +1,3 @@
-init: 'true'
-check: 'node check-layout.js'
+scripts:
+  init: 'true'
+  check: node check-layout.js
