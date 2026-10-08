@@ -2,7 +2,7 @@
 
 The initial page intentionally gives `main` excessive right padding. Fix only that layout defect while keeping the repository name, Autonomy, and Save settings controls usable.
 
-- Preview: `PORT=3000 node server.js`, listening on all interfaces
+- Preview: `PORT=3001 node server.js`, listening on all interfaces
 - Structural check: `node check-layout.js`
 - No dependencies or installation are required.
 
