@@ -133,3 +133,11 @@ Keep pull requests focused to make reviews faster and clearer.
 Enjoy this project? Give it a star! ⭐😊
 
 Created by <a href="https://michalskolak.netlify.app/">Michał Skolak</a>
+
+## Staging QA notes
+
+Documentation contribtions are welcome.
+
+<a href="#staging-qa-notes">Staging QA notes</a>
+
+This section is a disposable staging QA fixture. Validate its local navigation link with `node scripts/check-staging-readme-link.mjs`.
