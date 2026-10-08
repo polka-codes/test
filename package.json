@@ -1,0 +1,12 @@
+{
+  "name": "staging-e2e-deferred-fixture",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "bun run deferred/check.ts",
+    "dev": "bun run deferred/server.ts"
+  },
+  "dependencies": {
+    "kleur": "4.1.5"
+  }
+}
