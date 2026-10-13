@@ -1,5 +1,6 @@
 # QA PR lifecycle
 
-- [ ] Create draft PR
-- [ ] Review diff
+- [x] Create draft PR
+- [x] Review diff
 - [ ] Update PR
+- [ ] Reload verification
