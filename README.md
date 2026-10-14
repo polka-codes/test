@@ -126,10 +126,12 @@ Follow these steps to contribute:
 4. Push to your fork
 5. Open a pull request
 
-Keep pull requests focused to make reviews faster and clearer.
+Keep pull requests focused for faster, clearer reviews.
 
 ## ❤️ Support
 
 Enjoy this project? Give it a star! ⭐😊
 
 Created by <a href="https://michalskolak.netlify.app/">Michał Skolak</a>
+
+Staging issue hydration check: a13550-acceptance.
