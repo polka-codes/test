@@ -133,3 +133,5 @@ Keep pull requests focused to make reviews faster and clearer.
 Enjoy this project? Give it a star! ⭐😊
 
 Created by <a href="https://michalskolak.netlify.app/">Michał Skolak</a>
+
+Staging QA checks stay small, scoped, and repeatable.
