@@ -50,11 +50,11 @@ const webhookHandler = async (req: NextRequest) => {
     return NextResponse.json(
       {
         error: {
-          message: 'Method Not Allowed',
+          message: 'Internal Server Error',
         },
       },
-      { status: 405 }
-    ).headers.set('Allow', 'POST');
+      { status: 500 }
+    );
   }
 };
 
