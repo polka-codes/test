@@ -47,3 +47,5 @@ sitemap-*.xml
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+/search-a153/ignored.txt
