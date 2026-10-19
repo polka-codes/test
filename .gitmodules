@@ -1,0 +1,4 @@
+[submodule "qa-child-a153"]
+	path = qa-child-a153
+	url = https://github.com/polka-codes/test.git
+	branch = staging-e2e-child-20261019-a153
