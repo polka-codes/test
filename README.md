@@ -127,6 +127,7 @@ Follow these steps to contribute:
 5. Open a pull request
 
 Keep pull requests focused to make reviews faster and clearer.
+Keep each pull request focused on one clearly described change.
 
 ## ❤️ Support
 
