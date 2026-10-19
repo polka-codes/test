@@ -24,5 +24,9 @@
     "nextjs_starter_template_headline": "Next.js starter template",
     "nextjs_starter_template_description": "A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, Eslint, Stripe, Paraglide, testing tools and more. Jumpstart your project with efficiency and style.",
     "get_started": "Get Started",
-    "github": "Github"
+    "github": "Github",
+    "checkout_error": "Unable to start checkout. Please try again.",
+    "name_label": "Name",
+    "name_hint": "Enter the name to include in your greeting.",
+    "name_min_length": "Enter at least 3 characters."
 }

@@ -24,5 +24,9 @@
   "nextjs_starter_template_headline": "Next.js starter template",
   "nextjs_starter_template_description": "Szablon startowy Next.js, wyposażony w funkcje takie jak TypeScript, Tailwind CSS, Next-auth, Eslint, Stripe, Paraglide, narzędzia testowe i nie tylko. Rozpocznij swój projekt z wydajnością i stylem.",
   "get_started": "Zacznij",
-  "github": "Github"
+  "github": "Github",
+  "checkout_error": "Nie można rozpocząć płatności. Spróbuj ponownie.",
+  "name_label": "Imię",
+  "name_hint": "Wpisz imię, które ma się pojawić w powitaniu.",
+  "name_min_length": "Wpisz co najmniej 3 znaki."
 }
