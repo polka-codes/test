@@ -109,7 +109,7 @@ Open `http://localhost:3000/` in your browser to view the app.
 ```
 
 ## ⚙️ Scripts overview
-Common scripts in `package.json` include:
+Common `package.json` scripts include:
 - `dev`: Start the development server
 - `build`: Create a production build
 - `start`: Run the production server
@@ -119,7 +119,7 @@ Common scripts in `package.json` include:
 - `format:write`: Format code
 
 ## 🤝 Contribution
-Follow these steps to contribute:
+To contribute, follow these steps:
 1. Fork the project
 2. Create your feature branch
 3. Commit your changes
