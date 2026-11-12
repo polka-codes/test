@@ -1,6 +1,9 @@
 <a href="https://next-starter-skolaczk.vercel.app/">
 <img src="https://github.com/Skolaczk/next-starter/assets/76774237/44b552ff-43aa-441f-b1d0-de9bdfc2a73f" alt="thumbnail">
 </a>
+
+A production-ready Next.js starter for building full-stack web applications.
+
 <p align="center">
   <a href="#-features"><strong>Features</strong></a> ·
   <a href="#-deployment"><strong>Deployment</strong></a> ·
