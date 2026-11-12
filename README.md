@@ -2,6 +2,7 @@
 <img src="https://github.com/Skolaczk/next-starter/assets/76774237/44b552ff-43aa-441f-b1d0-de9bdfc2a73f" alt="thumbnail">
 </a>
 
+This project is a feature-rich Next.js starter template for building modern web applications.
 
 <p align="center">
   <a href="#-features"><strong>Features</strong></a> ·
