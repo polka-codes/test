@@ -1,3 +1,0 @@
-test: configure excluded search fixture
-excludeFiles:
-  - search-r3/config-excluded/**
