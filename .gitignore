@@ -47,4 +47,3 @@ sitemap-*.xml
 /playwright-report/
 /blob-report/
 /playwright/.cache/
-/search-r3/ignored/**
