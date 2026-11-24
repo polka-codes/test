@@ -27,7 +27,7 @@
 - 🎭 End-to-end testing
 - 📈 Simplified component imports
 - 💅 Code formatting
-- 🧹 Code quality checks
+- 🧹 Automated code quality checks
 - 🐶 Git commit automation
 - 🔹 Icon library
 - 🌑 Dark mode support
