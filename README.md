@@ -28,7 +28,7 @@
 - 📈 Simplified component imports
 - 💅 Code formatting
 - 🧹 Code quality checks
-- 🐶 Git commit automation
+- 🐶 Automated Git commit checks
 - 🔹 Icon library
 - 🌑 Dark mode support
 - 📝 Commit message checks
