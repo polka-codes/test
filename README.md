@@ -17,7 +17,7 @@
 - ⚛️ React 19
 - 📘 TypeScript support
 - 🎨 Tailwind CSS for styling
-- 🛠️ Customizable UI components
+- 🛠️ Customisable UI components
 - 💵 Stripe payments integration
 - 🔒 GitHub authentication
 - 🛡️ Database management tools
