@@ -18,7 +18,7 @@
 - 📘 TypeScript support
 - 🎨 Tailwind CSS for styling
 - 🛠️ Customizable UI components
-- 💵 Stripe payments integration
+- 💵 Stripe payment integration
 - 🔒 GitHub authentication
 - 🛡️ Database management tools
 - 📋 Form handling solutions
