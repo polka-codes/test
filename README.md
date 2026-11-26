@@ -69,7 +69,7 @@ npm install
 ```
 
 ### 3. Set up environment variables
-Copy `.env.example` to `.env`, then adjust the values for your environment.
+Copy `.env.example` to `.env`, then set the values for your environment.
 
 ### 4. Set up Git hooks
 Run the following command to enable pre-commit checks:
