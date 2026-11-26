@@ -68,7 +68,7 @@ Click the button below to deploy your Next.js app to <a href="https://vercel.com
 npm install
 ```
 
-### 3. Set up environment variables
+### 3. Configure environment variables
 Copy `.env.example` to `.env`, then adjust the values for your environment.
 
 ### 4. Set up Git hooks
